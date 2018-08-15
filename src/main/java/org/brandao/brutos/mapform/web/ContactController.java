@@ -13,7 +13,7 @@ import org.brandao.brutos.annotation.View;
 import org.brandao.brutos.annotation.web.RequestMethod;
 import org.brandao.brutos.mapform.entity.Contact;
 import org.brandao.brutos.mapform.entity.ContactKey;
-import org.brandao.brutos.web.RequestMethodTypes;
+import org.brandao.brutos.annotation.web.RequestMethodTypes;
 import org.brandao.brutos.web.WebFlowController;
 
 public class ContactController {
